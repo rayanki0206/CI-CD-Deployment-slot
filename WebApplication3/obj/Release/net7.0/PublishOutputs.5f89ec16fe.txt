@@ -1,0 +1,7 @@
+D:\OneDrive - WinWire Technologies\Desktop\CICD Pipelines\WebApplication3\WebApplication3\obj\Release\net7.0\PubTmp\Out\WebApplication3.exe
+D:\OneDrive - WinWire Technologies\Desktop\CICD Pipelines\WebApplication3\WebApplication3\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\OneDrive - WinWire Technologies\Desktop\CICD Pipelines\WebApplication3\WebApplication3\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\OneDrive - WinWire Technologies\Desktop\CICD Pipelines\WebApplication3\WebApplication3\obj\Release\net7.0\PubTmp\Out\WebApplication3.dll
+D:\OneDrive - WinWire Technologies\Desktop\CICD Pipelines\WebApplication3\WebApplication3\obj\Release\net7.0\PubTmp\Out\WebApplication3.deps.json
+D:\OneDrive - WinWire Technologies\Desktop\CICD Pipelines\WebApplication3\WebApplication3\obj\Release\net7.0\PubTmp\Out\WebApplication3.runtimeconfig.json
+D:\OneDrive - WinWire Technologies\Desktop\CICD Pipelines\WebApplication3\WebApplication3\obj\Release\net7.0\PubTmp\Out\WebApplication3.pdb
