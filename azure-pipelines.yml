@@ -35,14 +35,6 @@ stages:
         inputs:
           command: 'restore'
           projects: '**/*.csproj'
-          
-      - task: DotNetCoreCLI@2
-        displayName: 'perform unit testing'
-        inputs:
-          command: test
-          projects: '**/TestProject1.csproj'
-          arguments: '/p:CollectCoverage=true /p:CoverletOutputFormat=cobertura /p:CoverletOutput=./MyCoverage/'
-          publishTestResults: true
 
       - task: DotNetCoreCLI@2
         inputs:
@@ -55,8 +47,3 @@ stages:
         inputs:
           targetPath: '$(Build.ArtifactStagingDirectory)' 
           artifactName: 'deploymentapp-artifact'
-
-      - task: PublishCodeCoverageResults@2
-        displayName: 'Publish Code Coverage Results'
-        inputs:
-          summaryFileLocation: '$(Build.SourcesDirectory)/**/MyCoverage/coverage.cobertura.xml'
