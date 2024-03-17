@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>D:\OneDrive - WinWire Technologies\Desktop\CICD Pipelines\WebApplication3\WebApplication3\Properties\PublishProfiles\webapplication320240310145536-staging - Web Deploy1.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>D:\OneDrive - WinWire Technologies\Desktop\CICD Pipelines\WebApplication3\WebApplication3\Properties\PublishProfiles\WebApp2-TrafficManager - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
